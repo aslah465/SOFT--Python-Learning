@@ -1,6 +1,6 @@
 # SOFT Python Learning
-**Student:** Your Name
-**Register No:** XXXXX
+**Student:** Aslah.C,J
+**Register No:** JSOFT26275
 **Staff:** Sathish Kumar M
 **Department:** School of Future Technology, Jain University
 ## Progress

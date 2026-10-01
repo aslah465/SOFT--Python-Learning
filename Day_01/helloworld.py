@@ -1,5 +1,5 @@
 # Day 1 - 30 Days of Python
-# Name: Your Name
+# Name: your name
 # Staff: Sathish Kumar M
 print('Hello, World!')
 print(3 + 4)
