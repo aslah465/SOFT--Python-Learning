@@ -8,5 +8,7 @@
 |-----|-------|--------|
 | Day 01 | Introduction | Done |
 | Day 02 | Variables & Built-in Functions | Done |
-| Day 03 | operators | done |
-| Day 04 | strings | done |
+| Day 03 | operators | Done |
+| Day 04 | strings | Done |
+| Day 05 | lists | Done |
+| Day 06 | 
